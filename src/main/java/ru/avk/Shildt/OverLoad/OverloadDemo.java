@@ -3,7 +3,7 @@ package ru.avk.Shildt.OverLoad;
 class OverloadDemo {
 
     void test() {
-        System.out.print("\nПараметры отсутствуют: ");
+        System.out.print("\nПараметры отсутствуют  : ");
     }
 
     void test(int a) {
